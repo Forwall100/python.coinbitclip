@@ -27,6 +27,6 @@ TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
 4. Run the script:
    ```bash
-   python main.py [*your BTC address*]
+   python main.py [your BTC address]
    ```
 

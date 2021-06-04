@@ -12,7 +12,7 @@ TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 ### Using
 1. Download the project files:
    ```bash
-   git clone https://github.com/Forwall100/PYcoinbitclip.git
+   git clone https://github.com/Forwall100/python.coinbitclip.git
    ```
    
 2. Open the created folder:
